@@ -1,0 +1,10 @@
+Forename,Surname,Phone,Email,Address,Comments,Bday
+Angel,BlahBlah,+639164379064,email@email.com,,"Short comment with comma , ",
+Snake,Boss,123456789,email2@email.com,Address st.,"Comment 2",
+Dog,,123456789,,,,
+Invalid Row, ,
+,,,,,
+,,,,,
+Another invalid row, , ,
+Valid row name kitty, cat, 33445213445,meow@email.com,house,"no comment",
+johnny,Silverhand,123456789,johnny.silverhand@netwatch.com,Afterlife,"blah blah black sheep","2023-01-01"
